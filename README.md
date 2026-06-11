@@ -1,4 +1,4 @@
-# Whisper Live Transcriber
+# OpenAI Whisper Live Transcriber
 
 Real-time speech-to-text that types directly at your cursor on Ubuntu. Powered by [faster-whisper](https://github.com/SYSTRAN/faster-whisper) (CTranslate2-optimized OpenAI Whisper) with GPU acceleration.
 
