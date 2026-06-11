@@ -1,0 +1,33 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python bytecode / tooling
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Model cache (faster-whisper downloads here)
+.cache/
+
+# Logs
+*.log
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Internal planning docs (not for public users)
+docs/superpowers/
+
+# IDEs / AI tools
+.claude/
+.cursor/
